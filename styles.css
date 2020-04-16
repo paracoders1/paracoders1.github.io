@@ -114,6 +114,22 @@ img {
   display: block;
 }
 
+.dropbtn6 {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: solid;
+  cursor: pointer;
+}
+
+
+
+.dropdown6{
+  position: relative;
+  display: block;
+}
+
 a.f{
 	font-size: 2em;
 	color: #1111111;
